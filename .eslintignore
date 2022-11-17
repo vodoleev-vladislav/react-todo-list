@@ -1,0 +1,5 @@
+/dist/**
+.eslintrc.json
+tailwind.config.cjs
+vite.config.ts
+postcss.config.cjs
